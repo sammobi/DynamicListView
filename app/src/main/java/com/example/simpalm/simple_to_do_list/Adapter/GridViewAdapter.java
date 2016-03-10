@@ -1,4 +1,4 @@
-package com.example.simpalm.simple_to_do_list;
+package com.example.simpalm.simple_to_do_list.Adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,6 +8,8 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.simpalm.simple_to_do_list.R;
 
 /**
  * Created by Simpalm on 3/7/16.

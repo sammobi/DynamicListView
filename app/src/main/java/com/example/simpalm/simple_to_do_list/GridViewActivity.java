@@ -5,6 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.GridView;
 
+import com.example.simpalm.simple_to_do_list.Adapter.GridViewAdapter;
+
 import java.util.ArrayList;
 
 public class GridViewActivity extends AppCompatActivity {
